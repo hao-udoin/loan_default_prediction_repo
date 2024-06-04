@@ -8,5 +8,6 @@
 {"parameters":[{"depth":6,"learning_rate":0.5,"l2_leaf_reg":5}],"learn":[0.06400771671],"iteration":4,"passed_time":12.4830105,"remaining_time":12.4830105,"test":[0.3953285673]},
 {"parameters":[{"depth":10,"learning_rate":0.1,"l2_leaf_reg":5}],"learn":[0.1351905399],"iteration":5,"passed_time":17.50672393,"remaining_time":11.67114929,"test":[0.3918553004]},
 {"parameters":[{"depth":10,"learning_rate":0.03,"l2_leaf_reg":9}],"learn":[0.2800939772],"iteration":6,"passed_time":23.29320648,"remaining_time":9.982802775,"test":[0.3928032147]},
-{"parameters":[{"depth":16,"learning_rate":0.1,"l2_leaf_reg":1}],"learn":[0.02104720804],"iteration":7,"passed_time":23.29320648,"remaining_time":9.982802775,"test":[0.394401785]}
+{"parameters":[{"depth":16,"learning_rate":0.1,"l2_leaf_reg":1}],"learn":[0.02104720804],"iteration":7,"passed_time":23.29320648,"remaining_time":9.982802775,"test":[0.394401785]},
+{"parameters":[{"depth":16,"learning_rate":0.1,"l2_leaf_reg":5}],"learn":[0.06353196038],"iteration":8,"passed_time":23.29320648,"remaining_time":9.982802775,"test":[0.3935495651]}
 ]}
